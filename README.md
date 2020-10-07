@@ -1,8 +1,5 @@
 ### Welcome / Bem-vindo.
 
-<!--
-**basquiroto/basquiroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Fernando and I have created this github to share my codes that I use on some environmental studies.
 Meu nome é Fernando e eu criei este github para compartilhar meus códigos usados em alguns estudos ambientais.
 
