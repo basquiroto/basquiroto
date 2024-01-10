@@ -8,4 +8,4 @@ Enjoy / Aproveite.
 
 You can find more about me on / Você pode achar mais sobre mim em:
 
-[LinkedIn](https://www.linkedin.com/in/fernandobsouza/) | [Curriculum Vitae](http://lattes.cnpq.br/3997130246510280) | [ResearchGate](https://www.researchgate.net/profile/Fernando-Basquiroto-De-Souza) | [Blog 2 Engenheiros](http://2engenheiros.com/).
+[LinkedIn](https://www.linkedin.com/in/fernandobsouza/) | [Curriculum Vitae](http://lattes.cnpq.br/3997130246510280) | [ResearchGate](https://www.researchgate.net/profile/Fernando-Basquiroto-De-Souza).
